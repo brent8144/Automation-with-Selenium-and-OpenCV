@@ -116,4 +116,4 @@ KKGame Slot Regression Testing Tool
 
 ### 測試報告
 
-![image]()
+![image](https://github.com/brent8144/Automation-with-Selenium-and-OpenCV/blob/main/pic/report.PNG)
