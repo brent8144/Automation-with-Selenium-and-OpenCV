@@ -1,0 +1,8 @@
+# folder
+__pycache__
+KKGAME_PIC_RESULT
+KKGAME_PIC_SCREENSHOT
+KKGAME_REPORT
+
+# file
+.DS_Store
